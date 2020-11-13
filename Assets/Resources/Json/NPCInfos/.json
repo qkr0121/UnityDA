@@ -1,0 +1,9 @@
+{
+    "npcCode": "90000",
+    "npcName": "대장장이",
+    "dialogMessages": [
+        "반갑습니다.",
+        "Hello!",
+        "Bye, Bye"
+    ]
+}
